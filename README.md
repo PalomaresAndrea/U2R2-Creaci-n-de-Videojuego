@@ -49,12 +49,12 @@ Los siguientes recursos fueron utilizados como base para el desarrollo del proye
 
 📄 **Evidencia:**
 
-* `/PDF/Lecciones_01_06.pdf`
+* `https://drive.google.com/file/d/1k9Jwf3zwd6uRrI_G9FJo837FCzjGotkb/view?usp=sharing`
 
-🎥 **Videos:**
+🎥 **Video:**
 
-* Lecciones 1 a 6 de la playlist
-
+* Lecciones 1 a 6 
+https://drive.google.com/file/d/17d82HHN6nFLp0E8AkO4fTImiNzZ9tyrr/view?usp=drive_link
 ---
 
 ### 🔹 Lecciones 7 – 12 | Movimiento y Físicas
