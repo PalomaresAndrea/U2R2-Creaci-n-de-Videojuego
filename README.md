@@ -49,7 +49,7 @@ Los siguientes recursos fueron utilizados como base para el desarrollo del proye
 
 📄 **Evidencia:**
 
-* `https://drive.google.com/file/d/1k9Jwf3zwd6uRrI_G9FJo837FCzjGotkb/view?usp=sharing`
+https://drive.google.com/file/d/1k9Jwf3zwd6uRrI_G9FJo837FCzjGotkb/view?usp=sharing
 
 🎥 **Video:**
 
