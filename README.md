@@ -1,4 +1,14 @@
 # 🎮 U2R2 – Creación de Videojuego 2D en Unity
+![Banner del Proyecto](https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg)
+<!-- Puedes reemplazar esta imagen por un banner personalizado o una captura del juego -->
+
+---
+
+## 👩‍🎓 **Datos del Estudiante**
+- **Nombre completo:** Schoenstantt Andrea Palomares Barrientos  
+- **Materia:** Creación de Videojuegos ING  
+- **Grupo:** GIDS1053-e  
+- **Profesor:** Gabriel Barrón Rodríguez  
 
 ## 📌 Descripción del Proyecto
 
