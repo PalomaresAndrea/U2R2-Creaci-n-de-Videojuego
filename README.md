@@ -79,12 +79,12 @@ https://drive.google.com/file/d/17d82HHN6nFLp0E8AkO4fTImiNzZ9tyrr/view?usp=drive
 
 📄 **Evidencia:**
 
-* `/PDF/Lecciones_07_12.pdf`
+https://drive.google.com/file/d/1D_f19A0GUJwU2UeBqBd0nirHILAIH5kt/view?usp=sharing
 
 🎥 **Videos:**
 
 * Lecciones 7 a 12 de la playlist
-
+https://drive.google.com/file/d/1aaDdVm1WcSaXBaMUS1SXTXosnOAEmrxb/view?usp=sharing
 ---
 
 ### 🔹 Lecciones 13 – 18 | Animaciones y Colisiones
