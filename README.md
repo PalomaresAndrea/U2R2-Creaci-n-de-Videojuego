@@ -99,7 +99,7 @@ https://drive.google.com/file/d/1aaDdVm1WcSaXBaMUS1SXTXosnOAEmrxb/view?usp=shari
 
 📄 **Evidencia:**
 
-* `/PDF/Lecciones_13_18.pdf`
+* https://drive.google.com/file/d/180OqX0V78KRxldyazQsq8RewodP2AMFz/view?usp=sharing
 
 🎥 **Videos:**
 
